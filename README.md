@@ -1,2 +1,2 @@
 # drawing_touch_pad
-A tool for Drawing and sketching using Laptop 
+A tool for Drawing and sketching using Laptop touch pad.
